@@ -1,6 +1,7 @@
 <h1 align="center">Hello! 👋 I'm <a href="https://www.linkedin.com/in/guillaume-klimek/">Guillaume Klimek</a></h1>
 
 - 🧑‍💻 I'm a web developer currently working with Vossloh
+- 👯 I collaborate, argue, laugh and bicker with <a href="https://github.com/gaillarddamien">@gaillarddamien</a>
 - 🌱 I'm always learning
 - 💡 I have a ton of ideas, I love inventing things but my projects are dragging
 - ❤️ I like to discover new things, eat, walk in the nature, play video games, music, manga and so many things
@@ -27,9 +28,10 @@
 
 ## Open Sources Statistics
 
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <p align="left">
-<img alt="guiklimek" height='150' src="https://github-readme-stats.vercel.app/api?username=guiklimek&show_icons=true&theme=gotham"/>
-<img alt="guiklimek" height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek"> <!-- &hide=python -->
+<img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api?username=guiklimek&theme=outrun&show_icons=true"/>
+<img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek&theme=outrun"> <!-- &hide=python -->
 </p>
 
 <a href="https://react-file-structure.surge.sh/">What is architecture ?</a>
