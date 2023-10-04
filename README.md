@@ -25,9 +25,9 @@
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white" />](https://www.mongodb.com/)
 [<img alt="Redis" src="https://img.shields.io/badge/-Redis-dc382d?logo=redis&logoColor=white" />](https://redis.io/)
 [<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white"/>](https://www.postgresql.org/)
-[<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white" />](https://www.docker.com/)
 [<img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff"/>](https://git-scm.com/)
-[<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=%23ffffff"/>](https://github.com)
+[<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white" />](https://www.docker.com/)
+<!-- it's commented for the oneliner [<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=%23ffffff"/>](https://github.com) -->
 
 ## Open Sources Statistics
 
