@@ -8,13 +8,16 @@
 
 ## Technologies
 
+<!-- https://shields.io/docs/logos -->
+<!-- https://simpleicons.org/ -->
+
 [![OS](https://img.shields.io/badge/OS-Ubuntu%20Budgie-550770?logo=linux&logoColor=white)](https://ubuntubudgie.org/)
 [![BASH](https://img.shields.io/badge/SH-Bashortcut-4eaa25?logo=gnubash&logoColor=white)](https://github.com/guiklimek/bashortcut#bashortcut)
 [![IDE](https://img.shields.io/badge/IDE-WebStorm-blue?logo=webstorm)](https://www.jetbrains.com/webstorm/)
 [![IDE](https://img.shields.io/badge/IDE-PyCharm-5ADE78?logo=pycharm)](https://www.jetbrains.com/pycharm/)
 
 [<img alt="Python" src="https://img.shields.io/badge/-Python-fdd33d?logo=python"/>](https://www.python.org/)
-[<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?logo=Node.js&logoColor=white"/>](https://nodejs.org/en)
+[<img alt="Bash" src="https://img.shields.io/badge/-Bash-4eaa25?logo=gnubash&logoColor=white"/>](https://tldp.org/LDP/abs/html/index.html)
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white"/>](https://www.typescriptlang.org/)
 [<img alt="React" src="https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white"/>](https://react.dev/learn)
 [<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-e10098?logo=graphql&logoColor=white"/>](https://graphql.org/)
@@ -31,7 +34,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <p align="left">
 <img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api?username=guiklimek&theme=outrun&show_icons=true"/>
-<img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek&theme=outrun"> <!-- &hide=python -->
+<img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek&theme=outrun"> <!-- &hide=Dockerfile -->
 </p>
 
 <a href="https://react-file-structure.surge.sh/">What is architecture ?</a>
