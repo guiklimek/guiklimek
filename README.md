@@ -1,4 +1,4 @@
-# Hello 👋, I'm Guillaume Klimek a R&D, Web Developer
+<h1 align="center">Hello, 👋 I'm Guillaume Klimek a R&D, Web Developer</h1>
 
 🧑‍🔧 I'm currently designing and developing for Vossloh
 
