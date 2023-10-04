@@ -1,8 +1,11 @@
 # Hello 👋, I'm Guillaume Klimek a R&D, Web Developer
 
 🧑‍🔧 I'm currently designing and developing for Vossloh
+
 🌱 I'm learning full TypeScript stacks, NoSQL, Electron and Trackmania campaign lines
+
 💡 I have a ton of ideas, I love inventing things but my projects are dragging
+
 ❤️ I like to discover new things, eat, walk in the nature, play video games, music, manga and so many things
 
 ## My Technologies Stack
