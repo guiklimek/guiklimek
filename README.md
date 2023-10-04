@@ -28,8 +28,8 @@
 ## Open Sources Statistics
 
 <p align="left">
-<img alt="ouuan's github stats" height='150' src="https://github-readme-stats.vercel.app/api?username=guiklimek&hide=stars&count_private=true&include_all_commits=true&show_icons=true">
-<img alt="ouuan's github stats" height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek"> <!-- &hide=python -->
+<img alt="guiklimek" height='150' src="https://github-readme-stats.vercel.app/api?username=guiklimek&show_icons=true&theme=gotham"/>
+<img alt="guiklimek" height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek"> <!-- &hide=python -->
 </p>
 
 <a href="https://react-file-structure.surge.sh/">What is architecture ?</a>
