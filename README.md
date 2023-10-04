@@ -1,8 +1,8 @@
-<h1 align="center">Hello, 👋 I'm Guillaume Klimek a R&D, Web Developer</h1>
+<h1 align="center">Hello! 👋 I'm <a href="https://www.linkedin.com/in/guillaume-klimek/">Guillaume Klimek</a></h1> 😄
 
-🧑‍🔧 I'm currently designing and developing for Vossloh
+🧑‍💻 I'm a web developer currently working with Vossloh
 
-🌱 I'm learning full TypeScript stacks, NoSQL, Electron and Trackmania campaign lines
+🌱 I'm learning full TypeScript stacks, NoSQL, Electron and more...
 
 💡 I have a ton of ideas, I love inventing things but my projects are dragging
 
