@@ -5,7 +5,7 @@
 - 💡 I have a ton of ideas, I love inventing things but my projects are dragging
 - ❤️ I like to discover new things, eat, walk in the nature, play video games, music, manga and so many things
 
-## My Technologies Stack
+## Technologies
 
 [![OS](https://img.shields.io/badge/OS-Ubuntu%20Budgie-550770?logo=linux&logoColor=white)](https://ubuntubudgie.org/)
 [![BASH](https://img.shields.io/badge/SH-Bashortcut-4eaa25?logo=gnubash&logoColor=white)](https://github.com/guiklimek/bashortcut#bashortcut)
@@ -25,13 +25,11 @@
 [<img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff"/>](https://git-scm.com/)
 [<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=%23ffffff"/>](https://github.com)
 
-## Public Statistics
-
-I'm trying to go open source!
+## Open Sources Statistics
 
 <p align="left">
-<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=guiklimek&hide=stars&count_private=true&include_all_commits=true&show_icons=true">
-<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek"> <!-- &hide=python -->
+<img alt="ouuan's github stats" height='150' src="https://github-readme-stats.vercel.app/api?username=guiklimek&hide=stars&count_private=true&include_all_commits=true&show_icons=true">
+<img alt="ouuan's github stats" height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek"> <!-- &hide=python -->
 </p>
 
 <a href="https://react-file-structure.surge.sh/">What is architecture ?</a>
