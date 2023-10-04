@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello 👋, I'm Guillaume Klimek a R&D, Web Developer
 
-<!--
-**guiklimek/guiklimek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍🔧 I'm currently designing and developing for Vossloh
+🌱 I'm learning full TypeScript stacks, NoSQL, Electron and Trackmania campaign lines
+💡 I have a ton of ideas, I love inventing things but my projects are dragging
+❤️ I like to discover new things, eat, walk in the nature, play video games, music, manga and so many things
 
-Here are some ideas to get you started:
+## My Technologies Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+
+## Statistics
+
+<p align="left">
+<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=guiklimek&hide=stars&count_private=true&include_all_commits=true&show_icons=true">
+<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Asuka&hide=python">
+</p>
