@@ -10,7 +10,7 @@
 
 ## My Technologies Stack
 
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?logo=linux)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-webstorm-blue?logo=webstorm)](https://www.jetbrains.com/webstorm/)
 [![Editor](https://img.shields.io/badge/Editor-pycharm-5ADE78?logo=pycharm)](https://www.jetbrains.com/pycharm/)
 
