@@ -12,9 +12,9 @@
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 
-[![Editor](https://img.shields.io/badge/logo-webstorm-blue?logo=webstorm)](https://www.jetbrains.com/webstorm/)
+[![Editor](https://img.shields.io/badge/Editor-webstorm-blue?logo=webstorm)](https://www.jetbrains.com/webstorm/)
 
-[![Editor](https://img.shields.io/badge/-pycharm-5ADE78?logo=pycharm)](https://www.jetbrains.com/pycharm/)
+[![Editor](https://img.shields.io/badge/Editor-pycharm-5ADE78?logo=pycharm)](https://www.jetbrains.com/pycharm/)
 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
