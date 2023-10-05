@@ -37,4 +37,4 @@
 <img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek&theme=outrun"> <!-- &hide=Dockerfile -->
 </p>
 
-<a href="https://react-file-structure.surge.sh/">What is architecture ?</a>
+<a href="https://react-file-structure.surge.sh/">What is architecture?</a>
