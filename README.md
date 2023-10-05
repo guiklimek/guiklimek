@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 I'm <a href="https://www.linkedin.com/in/guillaume-klimek/">Guillaume Klimek</a></h1>
+<h1 align="center">Hello! 👋 I'm Guillaume Klimek</h1>
 
 - 🧑‍💻 I'm a web developer currently working with Vossloh
 - 👯 I collaborate, argue, laugh and bicker with <a href="https://github.com/gaillarddamien">@gaillarddamien</a>
