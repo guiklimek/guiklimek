@@ -5,7 +5,7 @@
 - 🌱 I'm always learning
 - 💡 I have a ton of ideas, I love inventing things but my projects are dragging
 - ❤️ I like to discover new things, eat, walk in the nature, play video games, music, manga and so many things
-- 🙅 I don't like the lack of respect for processes
+- 🙅 I don't like the lack of respect
 
 ## Technologies
 
