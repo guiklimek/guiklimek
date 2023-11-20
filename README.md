@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 I'm Guillaume Klimek</h1>
 
-- 🧑‍💻 I'm a web developer currently working with Vossloh
-- 👯 I collaborate, argue, laugh and bicker with <a href="https://github.com/gaillarddamien">@gaillarddamien</a>
+- 🧑‍💻 I'm a web developer
+- 👯 I collaborate with ?
 - 🌱 I'm always learning
 - 💡 I have a ton of ideas, I love inventing things but my projects are dragging
 - ❤️ I like to discover new things, eat, walk in the nature, play video games, music, manga and so many things
