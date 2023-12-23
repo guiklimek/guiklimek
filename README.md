@@ -1,8 +1,7 @@
 <h1 align="center">Hello! 👋 I'm Guillaume Klimek</h1>
 
-- 🧑‍💻 I'm a web developer
-- 👯 I collaborate with ?
-- 🌱 I'm always learning
+- 🧑‍💻 I'm an inventor, creator, architect and developer
+- 🌱 I'm always learning, I love that
 - 💡 I have a ton of ideas, I love inventing things but it takes a lot of time to cook
 - ❤️ I like to discover new things, eat, walk in the nature, play video games, music, manga and so many things
 - 🙅 I don't like the lack of respect
