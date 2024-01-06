@@ -34,7 +34,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <p align="left">
 <img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api?username=guiklimek&theme=outrun&show_icons=true"/>
-<img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek&theme=outrun"> <!-- &hide=Dockerfile -->
+<!-- <img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek&theme=outrun"> <!-- &hide=Dockerfile -->
 </p>
 
 <a href="https://react-file-structure.surge.sh/">What is architecture?</a>
