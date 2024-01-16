@@ -13,7 +13,7 @@
 <!-- https://simpleicons.org/ -->
 
 [![OS](https://img.shields.io/badge/OS-Ubuntu%20Budgie-550770?logo=linux&logoColor=white)](https://ubuntubudgie.org/)
-[![BASH](https://img.shields.io/badge/SH-Bashortcut-FFCA19?logo=gnubash&logoColor=white)](https://github.com/guiklimek/bashortcut#bashortcut)
+[![BASH](https://img.shields.io/badge/SH-Bashortcut-FFCA19?logo=gnubash&logoColor=white)](https://github.com/Ambre-io/bashortcut)
 [![IDE](https://img.shields.io/badge/IDE-WebStorm-blue?logo=webstorm)](https://www.jetbrains.com/webstorm/)
 [![IDE](https://img.shields.io/badge/IDE-PyCharm-5ADE78?logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![IDE](https://img.shields.io/badge/IDE-GoLand-7241FB?logo=goland)](https://www.jetbrains.com/go/)
