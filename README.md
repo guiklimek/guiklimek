@@ -16,6 +16,7 @@
 [![BASH](https://img.shields.io/badge/SH-Bashortcut-4eaa25?logo=gnubash&logoColor=white)](https://github.com/guiklimek/bashortcut#bashortcut)
 [![IDE](https://img.shields.io/badge/IDE-WebStorm-blue?logo=webstorm)](https://www.jetbrains.com/webstorm/)
 [![IDE](https://img.shields.io/badge/IDE-PyCharm-5ADE78?logo=pycharm)](https://www.jetbrains.com/pycharm/)
+[![IDE](https://img.shields.io/badge/IDE-GoLand-8473FF?logo=goland)](https://www.jetbrains.com/go/)
 
 [<img alt="Python" src="https://img.shields.io/badge/-Python-fdd33d?logo=python"/>](https://www.python.org/)
 [<img alt="Bash" src="https://img.shields.io/badge/-Bash-4eaa25?logo=gnubash&logoColor=white"/>](https://tldp.org/LDP/abs/html/index.html)
