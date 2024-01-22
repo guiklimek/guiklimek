@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 I'm Guillaume Klimek</h1>
 
-- 🧑‍💻 I'm a creator, architect and developer
+- 🧑‍💻 I'm a developer
 - 🌱 I'm always learning
 - 💡 I have a ton of ideas, I love inventing things but it takes a lot of time to cook
 - ❤️ I like to discover new things, eat, walk in the nature, play video games, music, manga and so many things
