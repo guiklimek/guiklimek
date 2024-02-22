@@ -23,7 +23,6 @@
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white"/>](https://www.typescriptlang.org/)
 [<img alt="React" src="https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white"/>](https://react.dev/learn)
 [<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-e10098?logo=graphql&logoColor=white"/>](https://graphql.org/)
-[<img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311c87?logo=apollographql&logoColor=white"/>](https://www.apollographql.com/)
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white" />](https://www.mongodb.com/)
 [<img alt="Redis" src="https://img.shields.io/badge/-Redis-dc382d?logo=redis&logoColor=white" />](https://redis.io/)
 [<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white"/>](https://www.postgresql.org/)
