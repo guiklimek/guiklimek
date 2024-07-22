@@ -17,7 +17,7 @@
 [![IDE](https://img.shields.io/badge/IDE-PyCharm-5ADE78?logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![IDE](https://img.shields.io/badge/IDE-GoLand-7241FB?logo=goland)](https://www.jetbrains.com/go/)
 
-[<img alt="Go" src="https://img.shields.io/badge/-Golang-ffffff?logo=go"/>](https://go.dev/)
+[<img alt="Go" src="https://img.shields.io/badge/-Go-ffffff?logo=go"/>](https://go.dev/)
 [<img alt="Python" src="https://img.shields.io/badge/-Python-fdd33d?logo=python"/>](https://www.python.org/)
 [<img alt="Bash" src="https://img.shields.io/badge/-Bash-4eaa25?logo=gnubash&logoColor=white"/>](https://tldp.org/LDP/abs/html/index.html)
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white"/>](https://www.typescriptlang.org/)
