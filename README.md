@@ -38,4 +38,8 @@
 <!-- <img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek&theme=outrun"> <!-- &hide=Dockerfile -->
 </p>
 
+<p align="left">
+  <img width='800' src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg"/>
+</p>
+
 <a href="https://react-file-structure.surge.sh/">What is architecture?</a>
