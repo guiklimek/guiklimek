@@ -1,10 +1,12 @@
 <h1 align="center">Hello! 👋 I'm Guillaume Klimek</h1>
 
-- 🧑‍💻 I'm a 🇫🇷 French developer
+- 🧑‍💻 I'm a 🇫🇷 French CEO & Developer
 - 🌱 I'm always learning
-- 💡 I have a ton of ideas, I love inventing things but it takes a lot of time to cook
-- ❤️ I like to discover new things, eat, walk in the nature, play video games, music, manga and so many things
-- 🙅 I don't like the lack of respect
+- 💡 I have a ton of ideas and I love inventing things
+- ❤️ I like to discover new things, learn, eat, music, walk in the nature, play video games, manga and so many things
+- 🙅 I don't like the lack of respect, social gaps that create violence for everyone and when I can't stay humble
+
+"If you need to become richer, learn how to give."
 
 ## Technologies
 
@@ -38,8 +40,19 @@
 <!-- <img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek&theme=outrun"> <!-- &hide=Dockerfile -->
 </p>
 
-<p align="left">
-  <img width='800' src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg"/>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <a href="https://react-file-structure.surge.sh/">What is architecture?</a>
