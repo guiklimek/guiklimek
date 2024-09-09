@@ -3,7 +3,7 @@
 - 🧑‍💻 I'm a 🇫🇷 French CEO & Developer
 - 🌱 I'm always learning
 - 💡 I have a ton of ideas and I love inventing things
-- ❤️ I like to discover new things, learn, eat, music, walk in the nature, play video games, manga and so many things
+- ❤️ I like to discover new things, learn, eat, music, walk in the nature, manga and so many things
 - 🙅 I don't like the lack of respect, social gaps that create violence for everyone and when I can't stay humble
 
 "If you need to become richer, learn how to give."
