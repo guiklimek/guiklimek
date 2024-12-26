@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 I'm Guillaume Klimek</h1>
 
-- 🧑‍💻 I'm a 🇫🇷 French CEO & Developer
+- 🧑‍💻 I'm a 🇫🇷 French Developer
 - 🌱 I'm always learning
 - 💡 I have a ton of ideas and I love inventing things
 - ❤️ I like to discover new things, learn, eat, music, walk in the nature, manga and so many things
