@@ -3,10 +3,8 @@
 - 🧑‍💻 I'm a 🇫🇷 French Developer
 - 🌱 I'm always learning
 - 💡 I have a ton of ideas and I love inventing things
-- ❤️ I like to discover new things, learn, eat, music, walk in the nature, manga and so many things
+- ❤️ I like to discover new things, learn, music, walk and so many things
 - 🙅 I don't like the lack of respect, social gaps that create violence for everyone and when I can't stay humble
-
-"If you need to become richer, learn how to give."
 
 ## Technologies
 
@@ -32,14 +30,6 @@
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white" />](https://www.docker.com/)
 <!-- it's commented for the oneliner [<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=%23ffffff"/>](https://github.com) -->
 
-## Open Sources Statistics
-
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<p align="left">
-<img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api?username=guiklimek&theme=outrun&show_icons=true"/>
-<!-- <img alt="guiklimek" height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiklimek&theme=outrun"> <!-- &hide=Dockerfile -->
-</p>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -54,5 +44,3 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-<a href="https://react-file-structure.surge.sh/">What is architecture?</a>
